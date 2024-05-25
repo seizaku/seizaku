@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Landrei Zerna</h1>
-<h3 align="center">Just an ordinary developer from the Philippines</h3>
+<h3 align="center">Full Stack Web Developer with Strong React and Next.js Skills</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/landrei-zerna/" target="blank">
