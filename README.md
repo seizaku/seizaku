@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web Developer with Strong React and Next.js Skills</h3>
 
 <div align="center">
-  <img src="https://github.com/seizaku/seizaku/blob/main/coding-guy.gif" height="80" alt="Coding Animation" />
+  <img src="https://github.com/seizaku/seizaku/blob/main/coding-guy.gif" height="125" alt="Coding Animation" />
 </div>
 
 <div align="center">
