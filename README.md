@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Landrei Zerna</h1>
 <h3 align="center">Full Stack Web Developer with Strong React and Next.js Skills</h3>
 
+<!--
 <div align="center">
   <img src="https://github.com/seizaku/seizaku/blob/main/coding-guy.gif" height="240" alt="Coding Animation" />
 </div>
-
+-->
 <div align="center">
   <a href="https://www.linkedin.com/in/landrei-zerna/" target="blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
