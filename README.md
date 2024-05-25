@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Landrei Zerna</h1>
-<img align="center" src="https://i.ibb.co/PrcSTmp/output-onlinegiftools.gif" height="30" width="40" />
+<img align="center" src="https://i.ibb.co/PrcSTmp/output-onlinegiftools.gif" height="80" width="80" />
 
 <h3 align="left">A Full Stack Developer from Philippines</h3>
 
