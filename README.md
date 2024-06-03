@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Landrei Zerna</h1>
-<h3 align="center">Full Stack Web Developer with Strong React and Next.js Skills</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <!--
 <div align="center">
